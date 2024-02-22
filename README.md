@@ -1,1 +1,1 @@
-[Ver el documento PDF](Cistern-and-Coin-detector.pdf)
+[Ver el documento PDF](Digital-Design/Cistern-and-Coin-detector.pdf)
